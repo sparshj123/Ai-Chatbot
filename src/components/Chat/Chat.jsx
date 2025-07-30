@@ -1,5 +1,5 @@
 export default function Chat() {
     return <div>
-        MEssages
+        I want to see if this work.
     </div>
 }
